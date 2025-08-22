@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gourav Giri</h1>
-<h3 align="center">3rd-year undergrad from India, exploring DSA and Devlopment .</h3>
+<h3 align="center">3rd-year undergrad from India, exploring DSA and Java Devlopment .</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=GiriGourav&label=Profile%20views&color=0e75b6&style=flat" alt="GiriGourav" /> 
