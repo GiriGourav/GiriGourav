@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=GiriGourav&label=Profile%20views&color=0e75b6&style=flat" alt="GiriGourav" /> 
 </p>
 
-<h3 align="left">🌱 I’m currently learning Java and focusing on CP </h3>
+<h3 align="left">🌱 I’m currently learning Java Development and focusing on DSA </h3>
 <h3 align="left">📫 How to reach me:codinggourav@gmail.com</h3>
 
 <h3 align="left">🌐 Connect with me:</h3>
